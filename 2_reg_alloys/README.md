@@ -1,0 +1,1 @@
+Before running the GNN model, make sure the preprocessed datasets dict_keys_complete_alloys.pkl and dict_keys_complete_NiGa.pkl are available in this folder. To execute the code, run each Python script sequentially in ascending order.

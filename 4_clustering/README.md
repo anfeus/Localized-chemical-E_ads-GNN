@@ -1,0 +1,1 @@
+Before running the clustering model, ensure that the preprocessed datasets are present in this folder: dict_keys_complete_alloys.pkl and dict_keys_complete_NiGa.pkl. Additionally, the files Input_linear_GNN_alloys.pkl and Input_linear_GNN_NiGa.pkl must also be included.
